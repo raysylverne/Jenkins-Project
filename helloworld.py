@@ -1,2 +1,2 @@
 
-print("Hello world")
+print("I don't like Hello world")
